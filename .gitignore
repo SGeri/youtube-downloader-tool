@@ -1,3 +1,4 @@
+.gitignore
 .vscode
 download.py
 linksor.txt
